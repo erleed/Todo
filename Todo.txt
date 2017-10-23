@@ -1,9 +1,9 @@
 #My todo list
 
 ##########################
-#			 #
+#			                   #
 ### Personal Todo List ###
-#			 #
+#			                   #
 ##########################
 
 * Fix SUV
@@ -13,6 +13,5 @@
   - Express
   - BofA
   - Amazon
-
   - ComEd
   - Gas Bill? (Peoples Gas)

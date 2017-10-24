@@ -20,3 +20,7 @@
 A. Commit
 B. Staged
 C. modified
+
+* Computer Room
+  - Inventory
+  - Clean Room

@@ -1,9 +1,9 @@
 #My todo list
 
 ##########################
-#			                   #
+#                        #
 ### Personal Todo List ###
-#			                   #
+#                        #
 ##########################
 
 * Fix SUV
@@ -18,3 +18,5 @@
   - Keymaker!
 
 A. Commit
+B. Staged
+C. modified
